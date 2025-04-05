@@ -1,1 +1,1 @@
-# secure-authentication-module-for-os
+# Real-Time Process Synchronization Analyzer
